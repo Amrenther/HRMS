@@ -5,6 +5,7 @@ node_modules/
 .npm/
 .yarn/
 .pnpm-store/
+.mock_ui/
 
 # Build & Compilation Outputs
 dist/
